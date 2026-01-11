@@ -12,4 +12,4 @@ var intersection = function(nums1, nums2) {
 
     
 }
-console.log(intersection([1, 2, 2, 1], [2, 2]))
+console.log(intersection([1, 2, 2, 1], [2, 2]))  //2     //Time complexity : O(n+m)
