@@ -17,3 +17,13 @@ console.log(findNumbers([555,901,482,1771]))  //1
 
 //Time complexity :O(n)
 //Space complexity : O(1)
+
+
+
+
+
+
+
+
+
+
